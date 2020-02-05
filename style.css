@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  font-family: 'Open Sans', sans-serif;
+  background: #000;
+}
+
+.main {
+  margin-top: 50px;
+}
+
+.container {
+  margin-left: 45px;
+}
+
+.main-btn {
+  background: #fff;
+  padding: 14px 27px;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
